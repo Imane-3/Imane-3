@@ -48,8 +48,4 @@
 
 ###
 
-<br clear="both">
-  
-<img src="https://raw.githubusercontent.com/Imane-3/Imane-3/output/snake.svg" alt="Snake animation" />
 
-###
